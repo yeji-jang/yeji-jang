@@ -6,7 +6,7 @@ By utilizing the powerful tool called data, Solving complex business problems My
   - Furthermore, to enhance my data analysis skills, I have gained diverse experience in Python, SQL, statistics, machine learning, and NLP.
   - Through these experiences, I have gained a clear understanding of the fundamental roles of data and statistics. I am passionate about using statistical-based data analysis to address complex problems across various domains.
 
-  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" height="290" />
+  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="350" height="290" />
   
 - 💬 ask me about anything [email](mailto:yejijang940@gmail.com) :) 
 
