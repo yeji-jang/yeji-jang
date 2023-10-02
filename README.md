@@ -1,52 +1,42 @@
-hi, i'm [Abhishek Naidu](https://abhishknads.me/), a passionate self-taught full stack web developer and a freelance software engineer from india. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build.
+## **Hello everyone!👋**
+By utilizing the powerful tool called data, Solving complex business problems My name is Yeji Jang, Data Analyst.
 
-i am also an open-source enthusiast and maintainer. i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
+  - As a Data Analyst with a background in quality control, I am proficient in analyzing structured data.
+  - I completed a statistics course during my university studies, and I have applied statistical techniques in the field of quality control to contribute to product quality improvement and problem-solving.
+  - Furthermore, to enhance my data analysis skills, I have gained diverse experience in Python, SQL, statistics, machine learning, and NLP.
+  - Through these experiences, I have gained a clear understanding of the fundamental roles of data and statistics. I am passionate about using statistical-based data analysis to address complex problems across various domains.
 
-
-  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="290" />
   
-- 💼 any freelance work? do reach, [email](mailto:abhishek.naidu@cred.club) :)
-- 💬 ask me about anything, i am happy to help;
+- 💬 ask me about anything [email](mailto:yejijang940@gmail.com) :) 
 
-**languages and tools:**  
+💻 **Languages and Tools:**  
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
-📊 **this week i spent my time on:**
+
+🛠️ **Detailed Information on Applicable Skills:**
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript   11 hrs 31 mins  ██████████████████████▓░░   90.34 %
-JSON         47 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.16 %
-JavaScript   13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.71 %
-Bash         5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.71 %
-XML          4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.62 %
+Python  ███████████████████░░░░░░   Lv. 7
+MySQL   ███████████████████░░░░░░   Lv. 7
+Notion  █████████████████████░░░░   Lv. 8
+GitHub  ██████████████████░░░░░░░   Lv. 6
+R       ██████████████████░░░░░░░   Lv. 6
 ```
 
-<!--END_SECTION:waka-->
 
-if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
-
-<a href="https://www.buymeacoffee.com/abhisheknaiidu" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
-
-🚧 **my todoist stats:**
-<!-- TODO-IST:START -->
-🏆  8,004 Karma Points           
-🌸  Completed 0 tasks today           
-✅  Completed 673 tasks so far           
-⏳  Longest streak is 10 days
-<!-- TODO-IST:END -->
+🏆 **My Certificate:**
+<!-- Certificate:START -->
+🤖  인공지능데이터전문가 1급           
+📈  데이터분석준전문가(ADsP)          
+💻  컴퓨터활용능력 2급
+<!-- Certificate:END -->
 
 
-📈 my github stats
+📊 **My Github Stats:**
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=abhisheknaiidu&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=yeji-jang&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
