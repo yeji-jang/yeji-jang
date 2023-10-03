@@ -5,7 +5,7 @@
 By utilizing the powerful tool called data, Solving complex business problems My name is Yeji Jang, Data Analyst.
 
   - As a Data Analyst with a background in quality control, I am proficient in analyzing structured data.
-  - I completed a statistics course during my university studies, and I have applied statistical techniques in the field of quality control to contribute to product quality improvement and problem-solving.
+  - I completed a education statistics course during my university studies, and I have applied statistical techniques in the field of quality control to contribute to product quality improvement and problem-solving.
   - Furthermore, to enhance my data analysis skills, I have gained diverse experience in Python, SQL, statistics, machine learning, and NLP.
   - Through these experiences, I have gained a clear understanding of the fundamental roles of data and statistics. I am passionate about using statistical-based data analysis to address complex problems across various domains.
 
