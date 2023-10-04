@@ -9,7 +9,7 @@ By utilizing the powerful tool called data, Solving complex business problems My
   - Furthermore, to enhance my data analysis skills, I have gained diverse experience in Python, SQL, statistics, machine learning, and NLP.
   - Through these experiences, I have gained a clear understanding of the fundamental roles of data and statistics. I am passionate about using statistical-based data analysis to address complex problems across various domains.
 
-<img align="right" alt="GIF" src="https://github.com/yeji-jang/yeji-jang/assets/139667280/d8cd3290-1f25-42fc-8bad-12fa7432e269)" width="420" height="420"/>
+<img align="right" alt="GIF" src="https://github.com/yeji-jang/yeji-jang/assets/139667280/d8cd3290-1f25-42fc-8bad-12fa7432e269)" width="450" height="450"/>
   
 - 💬 ask me about anything [email](mailto:yejijang940@gmail.com) :)
 <!-- introductions:END -->
@@ -35,12 +35,17 @@ By utilizing the powerful tool called data, Solving complex business problems My
 > ### 🛠️ **Detailed Information on Applicable Skills:**
 
 <!-- Skills:START -->
+|등급|입문|초급|중급|고급|
+|:---:|:---:|:---:|:---:|:---:|
+|**설명**|1회이상 경험|어느정도 학습|코드보고 이해|응용해서 구현|
+|**Level**|1-3|4-5|6-7|8-10|
+|**%**|0-25|25-50|50-75|75-100|
 ```py
-Python  ███████████████████░░░░░░   Lv. 7
-MySQL   ███████████████████░░░░░░   Lv. 7
-Notion  █████████████████████░░░░   Lv. 8
-GitHub  ██████████████████░░░░░░░   Lv. 6
-R       ██████████████████░░░░░░░   Lv. 6
+Python  ███████████████████░░░░░░   Lv. 7(75%)
+MySQL   ███████████████████░░░░░░   Lv. 7(70%)
+Notion  ██████████████████████░░░   Lv. 9(90%)
+GitHub  █████████████████████░░░░   Lv. 8(80%)
+R       ██████████████████░░░░░░░   Lv. 6(65%)
 ```
 <!-- Skills:END -->
 
