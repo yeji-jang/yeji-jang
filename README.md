@@ -63,7 +63,10 @@ R       ██████████████████░░░░░░
 
 > ### 📊 **My Github Stats:**
 <!-- Stats:START -->
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=yeji-jang&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
+<p>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yeji-jang&show_icons=true&include_all_commits=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yeji-jang&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff">
+</p>
 <!-- Stats:END -->
 
 <br/>
